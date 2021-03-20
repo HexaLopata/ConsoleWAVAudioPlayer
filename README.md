@@ -2,4 +2,4 @@
 SImple WAV audio player for linux terminal
 
 # Using
-./ConsolePlayer <WAV file name>
+./ConsolePlayer WAV_file_name
