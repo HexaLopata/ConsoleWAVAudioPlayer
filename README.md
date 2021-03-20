@@ -6,5 +6,6 @@ SImple WAV audio player for linux terminal
 ./ConsolePlayer WAV_file_name
 ```
 
-Use the space bar to pause
-Use q to exit
+Use the space bar to pause.
+
+Use q to exit.
