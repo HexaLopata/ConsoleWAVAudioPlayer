@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/doublegrabli/.dotnet/store/|arch|/|tfm|",
+      "/home/doublegrabli/.nuget/packages"
+    ]
+  }
+}
